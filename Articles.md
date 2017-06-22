@@ -1,6 +1,6 @@
 ---
 ---
-[Device Behavior Analytics](https://community.hortonworks.com/articles/109344/device-behavior-analytics.html)  How-To/Tutorial analytics datanode disk jmx metric  
+[Device Behavior Analytics](https://community.hortonworks.com/articles/109344/device-behavior-analytics.html)  ```How-To/Tutorial``` ```analytics``` ```datanode``` ```disk``` ```jmx``` ```metric```  
 [Falcon Web UI is inaccessible(HTTP 503 error) and Ambari Service Check for Falcon fails: "ERROR: Unable to initialize Falcon Client object"](https://community.hortonworks.com/articles/76537/falcon-web-ui-is-inaccessiblehttp-503-error-and-am.html)  Issue Resolution Ambari Falcon issue-resolution  
 [Hive ACID Merge by Example](https://community.hortonworks.com/articles/97113/hive-acid-merge-by-example.html)  How-To/Tutorial Hive hdp-2.6.0 merge  
 [HDFS - YARN - InfraSolr: ZK Client when using custom zookeeper principal](https://community.hortonworks.com/articles/108144/hdfs-yarn-infrasolr-zk-client-when-using-custom-zo.html)  faq zookeeper  
