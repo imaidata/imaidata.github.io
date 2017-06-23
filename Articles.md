@@ -7,8 +7,8 @@ hortonworks社区中帖子很多，其中最有价值的是Article类型的。�
 
 [Articles_2.md](Articles_2.md)中的527、567两篇我已经改写成中文的了，可以参考。  
 
-
-【DS, Analytics & Spark】    
+#### 标签的大致分组
+【DS, Analytics & Spark】    
 `Spark` `zeppelin` `Pig` `hue` `beeline` `llap`  
 
 【Governance & Lifecycle】  
