@@ -73,8 +73,8 @@
 573. [NiFi REST API - FlowFile Count Monitoring](https://community.hortonworks.com/articles/83610/nifi-rest-api-flowfile-count-monitoring.html)  `How-To/Tutorial` `Nifi` `alerts` `api` `hdf` `monitoring`  
 574. [Open NLP Example Apache NiFi Processor](https://community.hortonworks.com/articles/80418/open-nlp-example-apache-nifi-processor.html)  `How-To/Tutorial` `apache-nifi` `apacheopennlp` `nifi-processor` `nlp`  
 575. [Windowing in Apache Storm trident.](https://community.hortonworks.com/articles/66708/windowing-in-apache-storm-trident.html)  `How-To/Tutorial` `Storm` `stream-processing`  
-576. [Popular Ambari REST API Commands](https://community.hortonworks.com/articles/81353/popular-ambari-rest-api-commands.html)  `Ambari` `api` `faq` `hadoop`  
-577. [Yarn Client always connects to rm1 when RM is in HA](https://community.hortonworks.com/articles/74768/yarn-client-always-connects-to-rm1-when-rm-is-in-h.html)  `Issue Resolution` `YARN` `issue-resolution` `yarntimeline`  
+576. [Popular Ambari REST API Commands](https://community.hortonworks.com/articles/81353/popular-ambari-rest-api-commands.html)  `Ambari` `api` `faq` `hadoop` 【[中文](https://github.com/wbwangk/wbwangk.github.io/wiki/kerberos%E6%B5%8B%E8%AF%95#windows%E4%B8%8Bkerberos%E8%AE%A4%E8%AF%81%E9%9D%9Ead)】  
+577. [Yarn Client always connects to rm1 when RM is in HA](https://community.hortonworks.com/articles/74768/yarn-client-always-connects-to-rm1-when-rm-is-in-h.html)  `Issue Resolution` `YARN` `issue-resolution` `yarntimeline`  
 578. [Kerberos cross realm trust for distcp](https://community.hortonworks.com/articles/18686/kerberos-cross-realm-trust-for-distcp.html)  `How-To/Tutorial` `distcp` `kerberos` `security`  
 579. [Ambari Infra best practices](https://community.hortonworks.com/articles/83318/ambari-infra-best-practices.html)  `How-To/Tutorial` `Atlas` `Ranger` `ambari-infra`  
 580. [Compression in HBase](https://community.hortonworks.com/articles/54761/compression-in-hbase.html)  `Hbase` `compression` `faq`  
