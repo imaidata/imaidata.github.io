@@ -3,7 +3,8 @@
 - [Articles_2.md](Articles_2.md)  
 - [Articles_3.md](Articles_3.md)  
 
-hortonworks社区中帖子很多，其中最有价值的是Article类型的。鼓励大家积极学习、验证、翻译、整理这些文章。`How-To/Tutorial`标签的文章优先。    
+hortonworks社区中帖子很多，其中最有价值的是Article类型的。鼓励大家积极学习、验证、翻译、整理这些文章。`How-To/Tutorial`标签的文章优先。
+
 [Articles_2.md](Articles_2.md)中的527、567两篇我已经改写成中文的了，可以参考。  
 
 
