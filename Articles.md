@@ -6,94 +6,29 @@
 hortonworks社区中帖子很多，其中最有价值的是Article类型的。鼓励大家积极学习、验证、翻译、整理这些文章。  
 
 
-【DS, Analytics & Spark】
-Spark  
-zeppelin  
-zeppelin-notebook  
-Hive  
-spark-sql  
+【DS, Analytics & Spark】  
+`Spark` `zeppelin` `Pig` `hue` `beeline` `llap`  
 
-【Governance & Lifecycle】
+【Governance & Lifecycle】  
+`Atlas` `Oozie` `Falcon` `metadata` `governance`  
 
-Atlas
-Oozie
-Hive
-atlas-rest-api
-oozie-coordinator
+【Data Ingestion & Streaming】  
+`Nifi` `Kafka` `Storm` `sqoop` `Flume` `data-ingrestion`  
 
-【Data Ingestion & Streaming】
-
-nifi-processor
-Nifi
-Kafka
-nifi-streaming
-Hive
-
-【CyberSecurity】
-
-Metron
-metron-ui
-ambari-server
-kerberos
-cybersecurity
-POPULAR
+【CyberSecurity】  
+`Metron` `ambari-server` `kerberos` `cybersecurity` `POPULAR` `ssh`   
 
 【Hadoop Core】
-hadoop
-HDFS
-hdp-2.5.0
-Hive
-Ambari
+`hadoop` `HDFS` `Ambari` `zookeeper` `orc`  
 
-【Cloud & Operations】
-ambari-server
-Ambari
-installation
-nifi-api
-aws
+【Cloud & Operations】  
+`Ambari` `installation` `YARN` `configuration` `SOLR` `Cloudbreak` `smartsense` `virtualbox` `elasticsearch` `monitoring`  
 
-【Data Processing】
+【Data Processing】  
+`Hive` `Hbase` `Tez` `Phoenix`  
 
-Hive
-Hbase
-hiveserver2
-Tez
+【Security】  
+`Ranger` `kerberos` `ldap` `active-directory` `security` `knox` `encryption` `ssl` `authentication` `authorization`  
 
-【Community Help】
-
-Ambari
-Spark
-Hive
-Nifi
-nifi-processor
-
-【Security】
-Ranger
-kerberos
-ranger-admin
-ldap
-active-directory
-
-【Sandbox & Learning】
-
-Sandbox
-hdp-2.6.0
-hdp-2.5.0
-ambari-server
-HDFS
-
-【Design & Architecture】
-
-hadoop
-Hbase
-installation
-hdp-2.5.0
-ambari-upgrade
-
-【Solutions】
-
-Hbase
-ambari-server
-SOLR
-solrcloud
-Hive
+【Development】  
+`java` `python` 'api` `json` `jdbc` 'thrift` `livy` `curl`  
