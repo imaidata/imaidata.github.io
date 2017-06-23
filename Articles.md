@@ -6,7 +6,7 @@
 hortonworks社区中帖子很多，其中最有价值的是Article类型的。鼓励大家积极学习、验证、翻译、整理这些文章。  
 
 
-【DS, Analytics & Spark】  
+【DS, Analytics & Spark】    
 `Spark` `zeppelin` `Pig` `hue` `beeline` `llap`  
 
 【Governance & Lifecycle】  
@@ -18,7 +18,7 @@ hortonworks社区中帖子很多，其中最有价值的是Article类型的。�
 【CyberSecurity】  
 `Metron` `ambari-server` `kerberos` `cybersecurity` `POPULAR` `ssh`   
 
-【Hadoop Core】
+【Hadoop Core】  
 `hadoop` `HDFS` `Ambari` `zookeeper` `orc`  
 
 【Cloud & Operations】  
