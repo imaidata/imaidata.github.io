@@ -24,7 +24,7 @@
 524. [Extracting NiFi Provenance Data using SiteToSiteProvenanceReportingTask Part 1](https://community.hortonworks.com/articles/72727/extracting-nifi-provenance-data-using-sitetositepr.html)  `How-To/Tutorial` `Nifi` `provenance`  
 525. [Kafka Best Practices](https://community.hortonworks.com/articles/80813/kafka-best-practices-1.html)  `How-To/Tutorial` `Kafka` `best-practices`  
 526. [US Presidential Election: tweet analysis using HDF/NiFi, Spark, Hive and Zeppelin](https://community.hortonworks.com/articles/30213/us-presidential-election-tweet-analysis-using-hdfn.html)  `How-To/Tutorial` `Nifi` `Spark` `sentiment-analysis` `zeppelin`  
-527. [Hadoop Auth (SPNEGO and delegation token based authentication) with Apache Knox](https://community.hortonworks.com/articles/85550/hadoop-auth-spnego-and-delegation-token-based-auth.html)   
+527. [Hadoop Auth (SPNEGO and delegation token based authentication) with Apache Knox](https://community.hortonworks.com/articles/85550/hadoop-auth-spnego-and-delegation-token-based-auth.html)  【[中文](https://github.com/wbwangk/wbwangk.github.io/wiki/knox%E6%B5%8B%E8%AF%95#hadoop-auth-providerspnegokerberos%E8%AE%A4%E8%AF%81)】  
 528. [Kafka 0.9 Configuration Best Practices](https://community.hortonworks.com/articles/49789/kafka-best-practices.html)  `Kafka` `faq` `realtime`  
 529. [How to enable Trace logging in Ambari server for Oracle Database](https://community.hortonworks.com/articles/85638/how-to-enable-trace-logging-in-ambari-server-for-o.html)  `How-To/Tutorial` `Ambari` `ambari-server`  
 530. [Unofficial Storm and Kafka Best Practices Guide](https://community.hortonworks.com/articles/550/unofficial-storm-and-kafka-best-practices-guide.html)  `Kafka` `Storm` `deployment best practice` `faq`  
