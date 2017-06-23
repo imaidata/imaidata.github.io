@@ -31,4 +31,4 @@ hortonworks社区中帖子很多，其中最有价值的是Article类型的。�
 `Ranger` `kerberos` `ldap` `active-directory` `security` `knox` `encryption` `ssl` `authentication` `authorization`  
 
 【Development】  
-`java` `python` 'api` `json` `jdbc` 'thrift` `livy` `curl`  
+`java` `python` `api` `json` `jdbc` `thrift` `livy` `curl`  
