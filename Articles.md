@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 运营组将community.hortonworks.com上的1600多篇[文章](https://community.hortonworks.com/kb/list.html)(Article)链接抓了下来，放在下面的3个md文件中。
 - [Articles_1.md](Articles_1.md)  
