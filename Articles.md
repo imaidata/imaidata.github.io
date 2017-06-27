@@ -37,4 +37,5 @@ hortonworks社区中帖子很多，其中最有价值的是这些Article类型�
 
 [全部标签](https://community.hortonworks.com/topics.html)  
 
-几篇基础知识：[Ambari在本地VM部署hadoop集群](https://imaidata.github.io/blog/ambari_vm/)、[ Kerberos使用(client)](https://imaidata.github.io/blog/kerberos_client/)、[Kerberos管理(admin)](https://imaidata.github.io/blog/kerberos_admin/)
+几篇基础知识：[Ambari在本地VM部署hadoop集群](https://imaidata.github.io/blog/ambari_vm/)、[ Kerberos使用(client)](https://imaidata.github.io/blog/kerberos_client/)、[Kerberos管理(admin)](https://imaidata.github.io/blog/kerberos_admin/)  
+[HDP官方文档](docs.hortonworks.com)
