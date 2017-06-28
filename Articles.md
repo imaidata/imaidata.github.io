@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-运营组将[HDP社区](community.hortonworks.com)上的1600多篇[文章](https://community.hortonworks.com/kb/list.html)(Article)链接抓了下来，放在下面的3个md文件中。
+运营组将[HDP社区](http://community.hortonworks.com)上的1600多篇[文章](https://community.hortonworks.com/kb/list.html)(Article)链接抓了下来，放在下面的3个md文件中。
 - [Articles_1.md](Articles_1.md)  
 - [Articles_2.md](Articles_2.md)  
 - [Articles_3.md](Articles_3.md)  
