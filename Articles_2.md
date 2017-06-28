@@ -175,8 +175,8 @@
 675. [Spark Machine Learning Pipeline by Example](https://community.hortonworks.com/articles/53903/spark-machine-learning-pipeline-by-example.html)  `How-To/Tutorial` `Spark` `spark-mllib`  
 676. [/var/tmp/oozie: No such file or directory](https://community.hortonworks.com/articles/78470/vartmpoozie-no-such-file-or-directory.html)  `Oozie` `crontab` `faq`  
 677. [How to Implement custom service, add the service, stop the service:](https://community.hortonworks.com/articles/43816/how-to-createadd-the-service-stop-the-service.html)  `How-To/Tutorial` `ambari-service` `service`  
-678. [Configure Knox to access AmbarI UI](https://community.hortonworks.com/articles/78361/configure-knox-to-access-ambari-ui.html)  `How-To/Tutorial` `Knox` `ambari-server` `ambariui` `operations` `security`  
-679. [Multiple Cloudbreak Shells](https://community.hortonworks.com/articles/78303/multiple-cloudbreak-shells.html)  `How-To/Tutorial` `Cloudbreak` `aws` `cloud`  
+678. [Configure Knox to access AmbarI UI](https://community.hortonworks.com/articles/78361/configure-knox-to-access-ambari-ui.html)  `How-To/Tutorial` `Knox` `ambari-server` `ambariui` `operations` `security`  【[中文](https://imaidata.github.io/blog/2017/06/28/Knox%E4%BB%A3%E7%90%86hbase-hdfs-ambari%E7%95%8C%E9%9D%A2/)】  
+679. [Multiple Cloudbreak Shells](https://community.hortonworks.com/articles/78303/multiple-cloudbreak-shells.html)  `How-To/Tutorial` `Cloudbreak` `aws` `cloud`  
 680. [Hadoop Tutorial Series Part-4 HDP Upgrade](https://community.hortonworks.com/articles/78289/hadoop-tutorial-series-part-4-hdp-upgrade.html)  `How-To/Tutorial` `hdp-upgrade`  
 681. [Hadoop Tutorial Series Part-3 Ambari Server Upgrade](https://community.hortonworks.com/articles/78277/hadoop-tutorial-series-part-3-ambari-server-upgrad.html)   
 682. [How to pass configuration with Oozie Proxy Job submission](https://community.hortonworks.com/articles/78156/how-to-hadoop-configuration-with-oozie-proxy-job-s.html)  `How-To/Tutorial` `Oozie`  
