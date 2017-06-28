@@ -123,7 +123,7 @@
 123. [Livy Interpreter: Cannot start  spark](https://community.hortonworks.com/articles/104898/livy-interpreter-cannot-start-spark.html)  `faq` `livy-kerberos` `livy-spark` `zeppelin-kerberos`  
 124. [Using Hive UDF/UDAF/UDTF with SparkSQL](https://community.hortonworks.com/articles/768/using-hive-udfudafudtf-with-sparksql.html)  `Hive` `Spark` `faq` `hive-udf`  
 125. [Deploying a fresh Metron cluster via Ambari Management pack](https://community.hortonworks.com/articles/60805/deploying-a-fresh-metron-cluster-using-ambari-serv.html)  `How-To/Tutorial` `Metron` `ambari-server` `deployment`  
-126. [Configure Knox to access HBASE UI](https://community.hortonworks.com/articles/81714/configure-knox-to-access-hbase-ui.html)  `How-To/Tutorial` `Hbase` `Knox` `knox-gateway` `security`  
+126. [Configure Knox to access HBASE UI](https://community.hortonworks.com/articles/81714/configure-knox-to-access-hbase-ui.html)  `How-To/Tutorial` `Hbase` `Knox` `knox-gateway` `security`  【[中文](https://imaidata.github.io/blog/2017/06/28/Knox%E4%BB%A3%E7%90%86hbase-hdfs-ambari%E7%95%8C%E9%9D%A2/)】   
 127. [Region server going down due to GC Pauses](https://community.hortonworks.com/articles/73953/region-server-going-down-due-to-gc-pauses.html)  `Issue Resolution` `Hbase` `heap` `issue-resolution` `memory` `performance` `regionserver`  
 128. [Deploy HDP Sandbox on AWS](https://community.hortonworks.com/articles/103754/hdp-sandbox-on-aws-1.html)  `How-To/Tutorial` `Sandbox` `amazon` `aws` `cloud` `docker`  
 129. [HDP 2.6/Ambari 2.5 GA!](https://community.hortonworks.com/articles/93067/hdp-26ambari-25-ga.html)  `Ambari` `ambari-server` `faq` `hadoop` `hadoop-core` `smartsense`  
@@ -414,7 +414,7 @@
 414. [Understanding Controller Service Availability in Apache NiFi](https://community.hortonworks.com/articles/90259/understanding-controller-service-availability-in-a.html)  `Nifi` `apache-nifi` `faq` `nifi-controller-service` `ux`  
 415. [Workaround for using custom service user and custom PID file location](https://community.hortonworks.com/articles/90189/workaround-for-using-custom-service-user-and-custo.html)  `Issue Resolution` `Ranger` `hdp-2.5.0` `issue-resolution` `pid`  
 416. [Create Phoenix Schemas in HDP 2.5](https://community.hortonworks.com/articles/89464/create-phoenix-schemas-in-hdp-25.html)  `How-To/Tutorial` `Hbase` `Phoenix` `hdp-2.5.0`  
-417. [Configure Knox to access HDFS UI](https://community.hortonworks.com/articles/81713/configure-knox-to-access-hdfs-ui.html)  `How-To/Tutorial` `HDFS` `Knox` `configuration` `faq` `security`  
+417. [Configure Knox to access HDFS UI](https://community.hortonworks.com/articles/81713/configure-knox-to-access-hdfs-ui.html)  `How-To/Tutorial` `HDFS` `Knox` `configuration` `faq` `security`  【[中文](https://imaidata.github.io/blog/2017/06/28/Knox%E4%BB%A3%E7%90%86hbase-hdfs-ambari%E7%95%8C%E9%9D%A2/)】  
 418. [Automated Kerberos Installation and Configuration](https://community.hortonworks.com/articles/29203/automated-kerberos-installation-and-configuration.html)  `How-To/Tutorial` `automation` `kerberos`  
 419. [If SELECT return no rows, "INSERT OVERWRITE" of Hive does not create empty files](https://community.hortonworks.com/articles/89935/if-select-return-no-rows-insert-overwrite-of-hive.html)  `Hive` `faq`  
 420. [Hive Union queries failing in 2.5.3 (regression)](https://community.hortonworks.com/articles/89934/hive-union-queries-failing-in-253-regression.html)  `Issue Resolution` `Upgrade to HDP 2.5.3 : ConcurrentModificationException When Executing Insert Overwrite : Hive`  
