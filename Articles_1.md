@@ -30,7 +30,7 @@
 30. [How to copy between a cluster and S3 buckets](https://community.hortonworks.com/articles/67321/how-to-copy-data-between-a-cluster-hdfs-and-s3-buc.html)  `How-To/Tutorial` `aws` `cloud` `hdc` `hdcloud` `hortonworks-cloud` `s3`  
 31. [How to set up shared RDS as Hive or Druid metastore on Hortonworks Data Cloud for AWS](https://community.hortonworks.com/articles/70824/how-to-set-up-and-use-an-rds-instance-as-hive-meta.html)  `How-To/Tutorial` `aws` `cloud` `hdc` `hdcloud` `hortonworks-cloud`  
 32. [Setting up the Port Forwardings on HDP 2.5 Sandbox](https://community.hortonworks.com/articles/57066/setting-up-the-port-forwardings-on-hdp-25-sandbox.html)  `How-To/Tutorial` `Sandbox` `docker` `hdp-2.5.0` `ports` `virtualbox`  
-33. [How to Extract All Hive Tables DDL](https://community.hortonworks.com/articles/107762/how-to-extract-all-hive-tables-ddl.html)  `How-To/Tutorial` `Hive`  
+33. [How to Extract All Hive Tables DDL](https://community.hortonworks.com/articles/107762/how-to-extract-all-hive-tables-ddl.html)  `How-To/Tutorial` `Hive`  【[中文](https://imaidata.github.io/blog/2017/06/28/Knox%E4%BB%A3%E7%90%86hbase-hdfs-ambari%E7%95%8C%E9%9D%A2/)】
 34. [Automate the Ambari LDAP sync](https://community.hortonworks.com/articles/104240/automate-the-ambari-ldap-sync.html)  `ambari-ldap-sync` `ambari-server` `faq` `sync-ldap`  
 35. [Setting up SQuirrel and Phoenix Integration for Sandbox](https://community.hortonworks.com/articles/44350/setting-up-squirrel-and-phoenix-integration.html)  `Phoenix` `Sandbox` `faq` `squirrell`  
 36. [Manually resetting offset for a Kafka topic](https://community.hortonworks.com/articles/81357/manually-resetting-offset-for-a-kafka-topic.html)  `Kafka` `administration` `faq` `queue`  
