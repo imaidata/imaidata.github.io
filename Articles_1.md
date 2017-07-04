@@ -103,7 +103,7 @@
 103. [NiFi - Converting XML to JSON](https://community.hortonworks.com/articles/29474/nifi-converting-xml-to-json.html)  `How-To/Tutorial` `Nifi` `json` `xml`  
 104. [​NiFi XML to JSON shredding: A generalised solution](https://community.hortonworks.com/articles/105547/nifi-xml-to-json-shredding-a-generalised-solution-3.html)  `How-To/Tutorial` `Nifi` `guidewire` `json` `transform` `xml`  
 105. [Adding new service component to Log Search in Ambari 2.5](https://community.hortonworks.com/articles/105297/adding-new-service-component-to-log-search-in-amba.html)  `How-To/Tutorial` `logsearch`  
-106. [Configure Hive view for Kerberized Cluster](https://community.hortonworks.com/articles/40658/configure-hive-view-for-kerberized-cluster.html)  `How-To/Tutorial` `hive view` `kerberos configuration`  
+106. [Configure Hive view for Kerberized Cluster](https://community.hortonworks.com/articles/40658/configure-hive-view-for-kerberized-cluster.html)  `How-To/Tutorial` `hive view` `kerberos configuration`   【[中文](https://imaidata.github.io/blog/2017/07/03/%E5%9C%A8Kerberized%E9%9B%86%E7%BE%A4%E4%B8%AD%E9%85%8D%E7%BD%AEhive%E8%A7%86%E5%9B%BE/)】  
 107. [Troubleshooting Oozie War deployment failure](https://community.hortonworks.com/articles/105471/troubleshooting-oozie-war-deployment-failure.html)  `Issue Resolution` `Oozie`  
 108. [Backing up the Ambari database with Postgres](https://community.hortonworks.com/articles/37765/backing-up-the-ambari-database-with-postgres.html)  `How-To/Tutorial` `ambari-server` `backup` `postgres`  
 109. [Working with S3 Compatible Data Stores via Apache NiFi](https://community.hortonworks.com/articles/86801/working-with-s3-compatible-data-stores-via-apache.html)  `How-To/Tutorial` `apache-nifi` `s3`  
