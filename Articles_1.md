@@ -241,7 +241,7 @@
 241. [Integration with LDAPS](https://community.hortonworks.com/articles/98510/integration-with-ldaps.html)  `How-To/Tutorial`  
 242. [KNOX Troubleshooting](https://community.hortonworks.com/articles/99529/knox-troubleshooting.html)  `Issue Resolution` `Knox` `issue-resolution` `knox-gateway` `knox-ldap`  
 243. [Integrating KNOX with LoadBalancer](https://community.hortonworks.com/articles/99530/integrating-knox-with-loadbalancer.html)  `How-To/Tutorial` `Knox` `knox-gateway` `knox-namenode-ha`  
-244. [Secure Administration of MIT-KDC](https://community.hortonworks.com/articles/99495/secure-administration-of-mit-kdc.html)  `faq` `kadmin` `kerberos` `mit-kdc`  
+244. [Secure Administration of MIT-KDC](https://community.hortonworks.com/articles/99495/secure-administration-of-mit-kdc.html)  `faq` `kadmin` `kerberos` `mit-kdc`  【[中文](https://imaidata.github.io/blog/mitkdc_Secure_Admin/)】
 245. [Details of the output: hdfs dfsadmin -report](https://community.hortonworks.com/articles/98936/details-of-the-output-hdfs-dfsadmin-report.html)  `How-To/Tutorial` `HDFS`  
 246. [Docker - Installing HDP using Ambari and Creating a CentOS Docker Node to the Cluster](https://community.hortonworks.com/articles/10979/docker-installing-hdp-using-ambari-and-adding-dock.html)  `Ambari` `centos-6.5` `docker` `hdp-2.3.0` `how-to-tutorial`  
 247. [Tibco Spotfire/Phoenix Integration](https://community.hortonworks.com/articles/84852/tibco-spotfirephoenix-integration.html)  `How-To/Tutorial` `Hbase` `Phoenix` `faq` `jdbc` `spotfire`  
