@@ -163,7 +163,7 @@
 1163. [HDP 2.5 documentation updates for Data Movement](https://community.hortonworks.com/articles/56083/hdp-25-documentation-updates-for-data-movement.html)  `Falcon` `Flume` `Oozie` `Sqoop` `data-management` `data-retention` `documentation` `faq` `hdp-2.5`  
 1164. [Apache NiFi 1.0.0 Kerberos Authentication](https://community.hortonworks.com/articles/54275/apache-nifi-100-kerberos-authentication.html)  `How-To/Tutorial` `Nifi` `hdf` `kerberos` `security`  
 1165. [Installing Apache Ranger with Ambari Postgresql](https://community.hortonworks.com/articles/55429/installing-apache-ranger-with-ambari-postgresql.html)  `How-To/Tutorial` `Ambari` `HDFS` `Ranger` `ambari-server` `how-to-tutorial` `installation` `postgres` `security`  
-1166. [Apache Ranger and HDFS](https://community.hortonworks.com/articles/10235/apache-ranger-and-hdfs.html)  `HDFS` `Ranger` `how-to-tutorial` `security`  
+1166. [Apache Ranger and HDFS](https://community.hortonworks.com/articles/10235/apache-ranger-and-hdfs.html)  `HDFS` `Ranger` `how-to-tutorial` `security`   【[Ranger和HDFS](https://imaidata.github.io/blog/2017/07/06/Ranger%E5%92%8CHDFS/)】    
 1167. [Change default permission of hive database](https://community.hortonworks.com/articles/56005/change-default-permission-of-hive-database.html)  `How-To/Tutorial` `hdfs-permissions` `permission`  
 1168. [Ambari Rolling & Express Upgrade](https://community.hortonworks.com/articles/2473/rolling-upgrade-express-upgrade-in-ambari.html)  `Ambari` `express-upgrade` `faq` `rolling-upgrade`  
 1169. [Cloudbreak SMTP Configuration v1.3](https://community.hortonworks.com/articles/55861/cloudbreak-smtp-configuration-v13.html)  `Cloudbreak` `faq`  
