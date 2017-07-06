@@ -60,7 +60,7 @@
 560. [How to achieve Ambari UI Branding or changing look and feel ?](https://community.hortonworks.com/articles/84381/how-to-achieve-ambari-ui-branding-or-changing-look.html)  `How-To/Tutorial` `Ambari` `ambari-server`  
 561. [Openldap Setup](https://community.hortonworks.com/articles/30653/openldap-setup.html)  `faq` `hadoop-ldap` `ldap`  
 562. [SNMP Alert](https://community.hortonworks.com/articles/74370/snmp-alert.html)  `How-To/Tutorial` `Ambari` `alerts` `ambari-alerts` `snmp`  
-563. [Ranger Ldap Integration](https://community.hortonworks.com/articles/16696/ranger-ldap-integration.html)  `How-To/Tutorial` `Ranger` `ldap` `ranger-ldap`  
+563. [Ranger Ldap Integration](https://community.hortonworks.com/articles/16696/ranger-ldap-integration.html)   `How-To/Tutorial` `Ranger` `ldap` `ranger-ldap`  
 564. [hive insert query is failing with different exception after upgrade to HDP-2.5](https://community.hortonworks.com/articles/73667/hive-insert-query-is-failing-with-different-except.html)  `Issue Resolution` `Hive`  
 565. [HDP 2.5.3 : Hive Throws ConcurrentModificationException When Executing Insert Overwrite Table](https://community.hortonworks.com/articles/79693/hdp-253-hive-throws-concurrentmodificationexceptio.html)  `Hive` `faq`  
 566. [Email Notifications in Apache Oozie WFM View](https://community.hortonworks.com/articles/84060/email-notifications-in-apache-oozie-wfm-view.html)  `How-To/Tutorial` `Oozie` `ambari-view` `help` `wfm`  
