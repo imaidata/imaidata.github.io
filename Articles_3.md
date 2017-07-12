@@ -234,7 +234,7 @@
 1234. [What enhancements does the Apache Storm Release 1.0 bring for real-time streaming systems](https://community.hortonworks.com/articles/50548/what-enhancements-does-the-apache-storm-release-10.html)  `Storm` `faq` `realtime` `stream-processing` `streaming`  
 1235. [Integrating Hortonworks DataFlow (powered by Apache NiFi) with SAS Event Stream Processing](https://community.hortonworks.com/articles/50214/integrating-hortonworks-dataflow-nifi-with-sas-eve.html)  `How-To/Tutorial` `Nifi` `hdf`  
 1236. [Hadoop Data Node Density Tradeoff](https://community.hortonworks.com/articles/48878/hadoop-data-node-density-tradeoff.html)  `architecture` `data-nodes` `faq` `node-density` `sizing` `storage`  
-1237. [Demystifying Delegation Token](https://community.hortonworks.com/articles/50069/demystifying-delegation-token.html)  `How-To/Tutorial` `kerberos` `security`  
+1237. [Demystifying Delegation Token](https://community.hortonworks.com/articles/50069/demystifying-delegation-token.html)  `How-To/Tutorial` `kerberos` `security`  【[委派令牌解惑](https://imaidata.github.io/blog/2017/07/12/%E5%A7%94%E6%B4%BE%E4%BB%A4%E7%89%8C%E8%A7%A3%E6%83%91/)】  
 1238. [Hive Streaming Compaction](https://community.hortonworks.com/articles/49971/hive-streaming-compaction.html)  `How-To/Tutorial` `Hive`  
 1239. [Implementing a real-time Hive Streaming example](https://community.hortonworks.com/articles/49949/test-7.html)  `How-To/Tutorial` `Hive`  
 1240. [How to add sentiment analytics to Twitter/Apache Nifi Demo](https://community.hortonworks.com/articles/49465/how-to-add-sentiment-analytics-to-twitterapache-ni.html)  `How-To/Tutorial` `Nifi` `SOLR` `apache-nifi` `banana` `how-to-tutorial` `nifi-templates` `sentiment-analysis` `twitter`  
