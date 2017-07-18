@@ -1,3 +1,4 @@
+[Articles_1.md](Articles_1.md) | [Articles_2.md](Articles_2.md)   
 1001. [Ranger Tagsync KafkaException and run out of the client ports](https://community.hortonworks.com/articles/65850/ranger-tagsync-kafkaexception-and-run-out-of-the-c.html)  `Issue Resolution` `Atlas` `Kafka` `Ranger` `issue-resolution` `kerberos`  
 1002. [Ambari 2.2.2.18 is now available](https://community.hortonworks.com/articles/65739/ambari-22218-is-now-available.html)   
 1003. [Dynamically Add Hosts to a Cluster with Blueprints](https://community.hortonworks.com/articles/1333/dynamically-adding-hosts-to-an-existing-cluster-wi.html)  `Ambari` `auto-discovery` `blueprints` `extensibility` `provision`  
