@@ -1,6 +1,6 @@
 [Articles_2.md](Articles_2.md) | [Articles_3.md](Articles_3.md)  
 
-1. [Device Behavior Analytics](https://community.hortonworks.com/articles/109344/device-behavior-analytics.html)  `How-To/Tutorial` `analytics` `datanode` `disk` `jmx` `metric`  
+1. [Device Behavior Analytics](https://community.hortonworks.com/articles/109344/device-behavior-analytics.html)  `How-To/Tutorial` `analytics` `datanode` `disk` `jmx` `metric`  【[设备性能分析](https://github.com/imaidata/blog/blob/master/_posts/hdfs/%E8%AE%BE%E5%A4%87%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90(Device%20Behavior%20Analytics).md)】  
 2. [Falcon Web UI is inaccessible(HTTP 503 error) and Ambari Service Check for Falcon fails: "ERROR: Unable to initialize Falcon Client object"](https://community.hortonworks.com/articles/76537/falcon-web-ui-is-inaccessiblehttp-503-error-and-am.html)  `Issue Resolution` `Ambari` `Falcon` `issue-resolution`  
 3. [Hive ACID Merge by Example](https://community.hortonworks.com/articles/97113/hive-acid-merge-by-example.html)  `How-To/Tutorial` `Hive` `hdp-2.6.0` `merge`  
 4. [HDFS - YARN - InfraSolr: ZK Client when using custom zookeeper principal](https://community.hortonworks.com/articles/108144/hdfs-yarn-infrasolr-zk-client-when-using-custom-zo.html)  `faq` `zookeeper`  
