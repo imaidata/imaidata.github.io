@@ -152,7 +152,7 @@
 150. [Using Toad for Hadoop with HDP 2.4](https://community.hortonworks.com/articles/47856/using-toad-for-hadoop-with-hdp-24.html)  `How-To/Tutorial` `hadoop` `hdp-2.4` `tool`  
 151. [Oozie HA configuration with Kerberos](https://community.hortonworks.com/articles/35019/oozie-ha-configuration-with-kerberos.html)  `How-To/Tutorial` `Oozie` `help`  
 152. [Oozie sqoop action](https://community.hortonworks.com/articles/103627/oozie-sqoop-action-1.html)  `How-To/Tutorial` `oozie-shell-action` `oozie-sqoop-action`  
-153. [Providing tracing with Spark Caller Context](https://community.hortonworks.com/articles/103610/providing-tracing-with-spark-caller-context.html)  `How-To/Tutorial` `HDFS` `Spark` `hadoop`  
+153. [Providing tracing with Spark Caller Context](https://community.hortonworks.com/articles/103610/providing-tracing-with-spark-caller-context.html)  `How-To/Tutorial` `HDFS` `Spark` `hadoop`  【[中文](https://imaidata.github.io/blog/Hadoop_Security_Concepts/)】
 154. [Preparing to Install HDP behind a Proxy](https://community.hortonworks.com/articles/47102/preparing-to-install-hdp-behind-a-proxy.html)  `How-To/Tutorial` `installation` `proxy`  
 155. [Hadoop Security Concepts](https://community.hortonworks.com/articles/102957/hadoop-security-concepts.html)  `Knox` `Ranger` `authentication` `authorization` `encryption` `faq`  
 156. [Added external package to livy causes "console:25" error](https://community.hortonworks.com/articles/103488/added-external-package-to-livy-causes-console25-er.html)  `How-To/Tutorial` `error` `external` `import` `jar` `livy`  
