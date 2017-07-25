@@ -424,7 +424,6 @@
 1423. [Apache Metron TP 1 Install Instructions-  Single Node Vagrant Deployment](https://community.hortonworks.com/articles/24818/metron-tech-preview-1-install-instructions-on-sing.html)  `How-To/Tutorial` `Metron` `installation` `tech-preview`  
 1424. [Zeppelinhub Viewer](https://community.hortonworks.com/articles/32712/zeppelinhub-viewer.html)  `How-To/Tutorial` `Spark` `faq` `python` `visualization` `zeppelin` `zeppelin-notebook`  
 1425. [Best Practices In HDFS Authorization with Apache Ranger](https://community.hortonworks.com/articles/32716/best-practices-in-hdfs-authorization-with-apache-r.html)  `How-To/Tutorial` `HDFS` `Ranger` `authorization` `best-practices` `how-to-tutorial` `security`【[中文](https://imaidata.github.io/blog/best_ranger_hdfs/)】 
-
 1426. [What if your Hadoop application get stuck](https://community.hortonworks.com/articles/28298/what-if-your-hadoop-application-get-stuck.html)  `Issue Resolution` `MapReduce` `YARN` `issue-resolution` `yarn-scheduler`  
 1427. [Comparison of NiFi to Python for streaming application](https://community.hortonworks.com/articles/32326/comparison-of-nifi-to-python-for-streaming-applica.html)  `Nifi` `architecture` `faq` `python` `streaming`  
 1428. [Hadoop as an Application PaaS with Slider and Docker](https://community.hortonworks.com/articles/30241/hadoop-as-an-application-paas-with-slider-and-dock.html)  `How-To/Tutorial` `YARN` `slider` `zookeeper`  
