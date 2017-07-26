@@ -59,7 +59,7 @@
 57. [How to enable Knox proxying for Zeppelin](https://community.hortonworks.com/articles/106968/how-to-enable-knox-proxying-for-zeppelin.html)  `How-To/Tutorial` `Knox` `proxy` `security` `zeppelin` `zeppelin-notebook`  
 58. [NiFi Debugging Tutorial](https://community.hortonworks.com/articles/106931/nifi-debugging-tutorial.html)  `How-To/Tutorial` `debug` `debugging` `hdf` `nifi-processor`  
 59. [Manually Installing Apache Metron on Ubuntu 14.04](https://community.hortonworks.com/articles/88843/manually-installing-apache-metron-on-ubuntu-1404.html)  `How-To/Tutorial` `Metron` `cybersecurity` `ubuntu`  
-60. [Completely uninstall HDP and Ambari](https://community.hortonworks.com/articles/97489/completely-uninstall-hdp-and-ambari.html)  `How-To/Tutorial` `Ambari` `delete` `hdp-2.3.4` `remove` `uninstall`  
+60. [Completely uninstall HDP and Ambari](https://community.hortonworks.com/articles/97489/completely-uninstall-hdp-and-ambari.html)  `How-To/Tutorial` `Ambari` `delete` `hdp-2.3.4` `remove` `uninstall`【[中文](https://imaidata.github.io/blog/uninstall_hdp_ambari/)】          
 61. [Ambari API calls for creating Ambari Local Users, Groups and mapping a user to a group.](https://community.hortonworks.com/articles/82894/ambari-api-calls-for-creating-ambari-local-users-g.html)  `How-To/Tutorial` `Ambari` `groups` `users`  
 62. [New UI Enhancements in Apache NiFi 1.2](https://community.hortonworks.com/articles/106723/new-ui-enhancements-in-apache-nifi-12.html)  `How-To/Tutorial` `apache-nifi` `faq` `nifi-controller-service` `ui`  
 63. [Oozie log rotation using DailyRollingFileAppender (DRFA)](https://community.hortonworks.com/articles/105855/oozie-log-retention-using-dailyrollingfileappender.html)  `How-To/Tutorial` `Oozie` `logs` `oozie-log4j`  
